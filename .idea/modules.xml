@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dexin.iml" filepath="$PROJECT_DIR$/.idea/dexin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dxwork.iml" filepath="$PROJECT_DIR$/.idea/dxwork.iml" />
     </modules>
   </component>
 </project>

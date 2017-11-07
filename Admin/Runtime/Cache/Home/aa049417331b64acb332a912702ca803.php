@@ -1,0 +1,62 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPEhtml>
+<!-- 用户信息界面 -->
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>管理后台界面</title>
+    <link rel="stylesheet" type="text/css"href="/dxwork/Public/css/styleshow.css">
+</head>
+<body>
+<div id="mainshow">
+<h2 align="center">管理后台</h2>
+<table id="tbinfo">
+    <form action="/dxwork/admin.php/Home/Index/show"method="post"  enctype="multipart/form-data">
+<tr>
+    <td>当前管理员：</td>
+    <td><?php echo ($info[0]['name']); ?></td>
+</tr>
+        <td>------------ </td>
+        <tr>
+            <td colspan="1">
+                <input type="submit" name="excel" value="导出用户列表">
+            </td>
+            <td> （excel文件）</td>
+        </tr>
+        <tr>
+            <td>导入新用户：</td>
+            <td colspan="1">
+                <input type="file" name="file_stu">
+            </td>
+            <td> <input type="submit" name="load" value="导入" /></td>
+            <td>（excel文件）</td>
+        </tr>
+        <td>------------ </td>
+        <tr>
+            <td>查询模块：</td>
+        </tr>
+        <tr>
+            <td>输入用户名查微信号：</td>
+            <td><input type="text" name="cnm" value="<?php echo @$_POST["cnm"];?>"></td>
+            <td colspan="1">
+                <input type="submit"name="cxwx" value="查询">
+            </td>
+            <td><?php echo ($infowechat[0]['wechat']); ?></td>
+        </tr>
+        <tr>
+            <td>输入微信号查用户名：</td>
+            <td><input type="text" name="cwx" value="<?php echo @$_POST["cwx"];?>"></td>
+            <td colspan="1">
+                <input type="submit"name="cxnm" value="查询">
+            </td>
+            <td><?php echo ($infoname[0]['name']); ?></td>
+        </tr>
+        <td>------------ </td>
+    <tr>
+        <td colspan="1"><center>
+            <input type="submit"name="back" value="退出"></center>
+            </td>
+    </tr>
+</table>
+</div>
+</body>
+</html>

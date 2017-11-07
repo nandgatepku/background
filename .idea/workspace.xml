@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b6997a5-53b4-4a93-b894-ab39de3a416d" name="Default" comment="" />
+    <list default="true" id="3b6997a5-53b4-4a93-b894-ab39de3a416d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dexin.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/Runtime/Cache/Home/20914c0f075f91df3579ffbdf5180b02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/Runtime/Logs/Home/17_10_30.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/Runtime/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Common/Common/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Common/Conf/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Common/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Conf/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Controller/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Model/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/Home/20914c0f075f91df3579ffbdf5180b02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/Home/57eb8059e86548fbdc4d9d6042b01a35.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/Home/76fa5d91061b37f679ea44f50ab94989.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/Home/f459f4aa7930408e5c9e29ca080243d7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/Home/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Data/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Logs/Home/17_10_30.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Logs/Home/17_10_31.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Logs/Home/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Logs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/Temp/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Home/Runtime/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/23db6aaf0f550d2eb0a221bf3b5c2a94.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/2f412aae274b751dca883838bf7e7502.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/52856c3a5c4d0b59a9af8d79427f3b7f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/5542aa00249ec4e67091e9e6dba4ab0b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/58cfc9b4928af05a1f9d184b0fc77747.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_10_31.log" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Cache/Home/index.html" afterPath="$PROJECT_DIR$/Users/Home/Common/Common/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Cache/index.html" afterPath="$PROJECT_DIR$/Users/Home/Common/Conf/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Data/index.html" afterPath="$PROJECT_DIR$/Users/Home/Common/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Logs/Home/index.html" afterPath="$PROJECT_DIR$/Users/Home/Conf/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Logs/index.html" afterPath="$PROJECT_DIR$/Users/Home/Controller/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/Runtime/Temp/index.html" afterPath="$PROJECT_DIR$/Users/Home/Model/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/Common/Conf/config.php" afterPath="$PROJECT_DIR$/Users/Home/Common/Conf/config.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/Conf/config.php" afterPath="$PROJECT_DIR$/Users/Home/Conf/config.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/View/Index/gai.html" afterPath="$PROJECT_DIR$/Users/Home/View/Index/gai.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/View/Index/index.html" afterPath="$PROJECT_DIR$/Users/Home/View/Index/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/View/Index/show.html" afterPath="$PROJECT_DIR$/Users/Home/View/Index/show.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/View/Index/zhuce.html" afterPath="$PROJECT_DIR$/Users/Home/View/Index/zhuce.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/View/index.html" afterPath="$PROJECT_DIR$/Users/Home/View/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/1.jpg" afterPath="$PROJECT_DIR$/Public/images/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/2.jpg" afterPath="$PROJECT_DIR$/Public/images/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/3.jpg" afterPath="$PROJECT_DIR$/Public/images/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/4.jpg" afterPath="$PROJECT_DIR$/Public/images/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/5.jpg" afterPath="$PROJECT_DIR$/Public/images/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/6.jpg" afterPath="$PROJECT_DIR$/Public/images/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/7.jpg" afterPath="$PROJECT_DIR$/Public/images/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/8.jpg" afterPath="$PROJECT_DIR$/Public/images/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Home/images/9.jpg" afterPath="$PROJECT_DIR$/Public/images/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admin/Home/Conf/config.php" afterPath="$PROJECT_DIR$/Admin/Home/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admin/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Admin/Home/Controller/IndexController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="dexin.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -23,27 +84,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="show.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
+        <entry file="file://$PROJECT_DIR$/Admin/Home/View/Index/show.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
+        <entry file="file://$PROJECT_DIR$/Admin/Home/Controller/IndexController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43542436">
-              <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.81341106">
+              <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
               <folding>
-                <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-                <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-                <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-                <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-                <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
+                <marker date="1510065272982" expanded="true" signature="475:494" placeholder="..." />
+                <marker date="1510065272982" expanded="true" signature="1239:1293" placeholder="select *from..admin..." />
+                <marker date="1510065272982" expanded="true" signature="2425:2463" placeholder="select *from..admin..." />
+                <marker date="1510065272982" expanded="true" signature="4808:4850" placeholder="select *from..admin..." />
+                <marker date="1510065272982" expanded="true" signature="5047:5089" placeholder="select *from..admin..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/Common/Common/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin/Home/View/Index/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/show.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +157,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,13 +175,26 @@
         <option value="$PROJECT_DIR$/Home/Home/View/Index/zhuce.html" />
         <option value="$PROJECT_DIR$/Home/Home/Controller/IndexController.class.php" />
         <option value="$PROJECT_DIR$/Home/Home/View/Index/index.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Home/View/index.html" />
-        <option value="$PROJECT_DIR$/Home/View/Index/index.html" />
         <option value="$PROJECT_DIR$/Home/View/Index/zhuce.html" />
         <option value="$PROJECT_DIR$/Home/View/Index/xiugai.html" />
         <option value="$PROJECT_DIR$/Home/View/Index/gai.html" />
         <option value="$PROJECT_DIR$/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/Home/View/Index/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Users/Home/View/Index/gai.html" />
+        <option value="$PROJECT_DIR$/Users/Home/View/Index/index.html" />
+        <option value="$PROJECT_DIR$/Users/Home/View/Index/show.html" />
+        <option value="$PROJECT_DIR$/Users/Home/View/Index/zhuce.html" />
+        <option value="$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/Admin/Home/Conf/config.php" />
+        <option value="$PROJECT_DIR$/Admin/Home/View/Index/index.html" />
+        <option value="$PROJECT_DIR$/Admin/Home/Controller/ExcelToArrary.php" />
+        <option value="$PROJECT_DIR$/Admin/Home/Controller/ExcelToArrary.class.php" />
+        <option value="$PROJECT_DIR$/Admin/Common/function.php" />
+        <option value="$PROJECT_DIR$/Admin/Home/View/Index/show.html" />
+        <option value="$PROJECT_DIR$/Admin/Common/Common/function.php" />
+        <option value="$PROJECT_DIR$/Admin/Home/Controller/IndexController.class.php" />
       </list>
     </option>
   </component>
@@ -91,10 +208,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="2293" />
     <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+    <option name="width" value="2326" />
+    <option name="height" value="1258" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -103,7 +220,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -121,82 +238,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
+              <option name="myItemId" value="dxwork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
+              <option name="myItemId" value="dxwork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dexin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
+              <option name="myItemId" value="dxwork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,15 +271,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\dxwork\Admin\Common\Common" />
+      <recent name="C:\wamp64\www\dxwork\Public\images" />
+      <recent name="C:\wamp64\www\dxwork\Users" />
       <recent name="C:\wamp64\www\dexin\Home" />
       <recent name="C:\wamp64\www\dexin\Home\Home\View\Index" />
-      <recent name="C:\wamp64\www\dexin\Home\Home" />
-      <recent name="C:\wamp64\www\dexin\Admin\Conf" />
-      <recent name="C:\wamp64\www\dexin\Admin\Home\Conf" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.gai.html">
-    <configuration default="false" name="IndexController.class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Home/Controller/IndexController.class.php">
+    <configuration default="false" name="IndexController.class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php">
       <method />
     </configuration>
     <configuration default="false" name="gai.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dexin/Home/View/Index/gai.html">
@@ -275,16 +338,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="2293" y="-11" width="2326" height="1258" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.184375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15364583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -309,153 +372,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Admin/Common/Common/function.php</url>
+          <line>100</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          <folding>
-            <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/gai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/View.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/zhuce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-          <folding>
-            <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/gai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/zhuce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
+    <entry file="file://$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
-          <folding>
-            <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/gai.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/gai.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/index.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/zhuce.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/zhuce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,15 +426,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/index.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/show.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
@@ -489,17 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
+    <entry file="file://$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,93 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Admin/Conf/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39664805">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.75">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Conf/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/images/9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Model/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/ThinkPHP.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -625,14 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/index.html">
+    <entry file="file://$PROJECT_DIR$/Users/Home/Controller/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -643,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,61 +502,232 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/zhuce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8333333">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3333333">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/gai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.5">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/View/Index/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33246753">
           <caret line="780" column="30" selection-start-line="780" selection-start-column="24" selection-end-line="780" selection-end-column="30" />
-          <folding>
-            <element signature="e#6#80#0#PHP" expanded="true" />
-            <marker date="1430970142219" expanded="true" signature="28134:28215" placeholder="INSERT INTO ${$this-&gt;parseTable($options['table'])}..." />
-            <marker date="1430970142219" expanded="true" signature="28967:29036" placeholder="INSERT INTO ${$this-&gt;parseTable($table)}..." />
-            <marker date="1430970142219" expanded="true" signature="30625:30637" placeholder="DELETE FROM ..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Controller/IndexController.class.php">
+    <entry file="file://$PROJECT_DIR$/Users/Home/Conf/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43542436">
-          <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/Model/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/images/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/zhuce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29889297">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/gai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.199262">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Common/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/Common/Conf/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53136533">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06642067">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Conf/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06642067">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Home/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.398524">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Home/Controller/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Vendor/PHPExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033707865">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Home/View/Index/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81341106">
+          <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
           <folding>
-            <marker date="1509458035266" expanded="true" signature="582:636" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="2075:2113" placeholder="select *from..lab1030_users..." />
-            <marker date="1509458035266" expanded="true" signature="3302:3356" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="3949:4003" placeholder="select *from..users..." />
-            <marker date="1509458035266" expanded="true" signature="4204:4258" placeholder="UPDATE users..." />
+            <marker date="1510065272982" expanded="true" signature="475:494" placeholder="..." />
+            <marker date="1510065272982" expanded="true" signature="1239:1293" placeholder="select *from..admin..." />
+            <marker date="1510065272982" expanded="true" signature="2425:2463" placeholder="select *from..admin..." />
+            <marker date="1510065272982" expanded="true" signature="4808:4850" placeholder="select *from..admin..." />
+            <marker date="1510065272982" expanded="true" signature="5047:5089" placeholder="select *from..admin..." />
           </folding>
         </state>
       </provider>
