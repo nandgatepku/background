@@ -53,6 +53,7 @@ class IndexController extends Controller {
         $select=$user->query("select *from admin where name='$uname' ");
         $this->assign('info',$select);              // 传递变量
         $this->display();// 显示用户信息展示页面
+
         if(isset($_POST['excel'])){
             $str = date ( 'Ymdhis' );
             $ename=$str.'Excelfile';    //生成的Excel文件文件名
@@ -60,6 +61,15 @@ class IndexController extends Controller {
             $edataa = $edata -> select();
             $res=push($edataa,$ename);
         }
+
+        if(isset($_POST['epdf'])){
+            $strp = date ( 'Ymdhis' );
+            $pname=$strp.'Pdffile';    //生成的Excel文件文件名
+            $pdata= M("users");   //查出数据
+            $pdata = $pdata -> where($map)->order('id')->select();
+            $res=export_pdf($pdata,$pname);
+        }
+
         if(isset($_POST['load'])){
             if (! empty ( $_FILES ['file_stu'] ['name'] ))
             {
@@ -120,11 +130,46 @@ class IndexController extends Controller {
             $this->assign('infoname',$icxnm);
             var_dump($icxnm);
         }
+        if(isset($_POST['userh'])){
+            $this->redirect('Index/userh','',1,'前往用户列表...页面跳转中...');
+        }
+
         if(isset($_POST['back'])){
             $this->redirect('Index/index','',2,'退出成功!返回主界面...页面跳转中...');
         }
     }
 
+    public function userh()
+    {
+        session_start();
+        $uname=$_SESSION['uname'];
+        $user=M();
+        $select=$user->query("select *from admin where name='$uname' ");
+        $this->assign('info',$select);              // 传递变量
+//        $this->display();// 显示用户信息展示页面
+
+        $Data = M("users"); // 实例化Data数据对象
+        import('ORG.Util.Page');// 导入分页类
+        $count      = $Data->where($map)->count();// 查询满足要求的总记录数 $map表示查询条件
+        $Page       =  new \Think\Page($count,2);// 实例化分页类 传入总记录数
+
+        $Page->setConfig('prev', "上一页");//上一页
+        $Page->setConfig('next', '下一页');//下一页
+        $Page->setConfig('first', '首页');//第一页
+        $Page->setConfig('last', "末页");//最后一页
+        $Page -> setConfig ( 'theme', '%HEADER% %FIRST% %UP_PAGE% %LINK_PAGE% %DOWN_PAGE% %END%' );
+        // 进行分页数据查询
+        $nowPage = isset($_GET['p'])?$_GET['p']:1;
+        $show       = $Page->show();// 分页显示输出
+        $list = $Data->where($map)->order('id')->limit($Page->firstRow.','.$Page->listRows)->select();
+        $this->assign('list',$list);// 赋值数据集
+        $this->assign('page',$show);// 赋值分页输出
+        $this->display();
+
+        if(isset($_POST['back'])){
+            $this->redirect('Index/show','',2,'返回管理后台...页面跳转中...');
+        }
+    }
 }
 
 

@@ -1,0 +1,160 @@
+[ 2017-11-09T09:06:47+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001490s ]
+
+[ 2017-11-09T09:12:12+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+
+[ 2017-11-09T09:12:54+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-11-09T09:17:29+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+
+[ 2017-11-09T09:17:30+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+
+[ 2017-11-09T09:18:21+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+
+[ 2017-11-09T09:19:24+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+
+[ 2017-11-09T09:19:36+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-11-09T09:20:16+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-11-09T09:20:38+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-11-09T09:20:46+08:00 ] ::1 /dxwork/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-09T09:29:09+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-11-09T09:29:09+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+
+[ 2017-11-09T09:29:09+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+
+[ 2017-11-09T09:29:10+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+
+[ 2017-11-09T09:29:11+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-11-09T09:29:12+08:00 ] ::1 /dxwork/index.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-11-09T09:29:12+08:00 ] ::1 /dxwork/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+
+[ 2017-11-09T09:29:12+08:00 ] ::1 /dxwork/index.php/Home/Index/Public/images/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+

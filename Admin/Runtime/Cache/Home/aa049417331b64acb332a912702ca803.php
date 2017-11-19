@@ -23,6 +23,12 @@
             <td> （excel文件）</td>
         </tr>
         <tr>
+            <td colspan="1">
+                <input type="submit" name="epdf" value="导出用户列表">
+            </td>
+            <td> （pdf文件）</td>
+        </tr>
+        <tr>
             <td>导入新用户：</td>
             <td colspan="1">
                 <input type="file" name="file_stu">
@@ -49,6 +55,12 @@
                 <input type="submit"name="cxnm" value="查询">
             </td>
             <td><?php echo ($infoname[0]['name']); ?></td>
+        </tr>
+        <td>------------ </td>
+        <tr>
+            <td colspan="1">
+                <input type="submit" name="userh" value="用户列表界面">
+            </td>
         </tr>
         <td>------------ </td>
     <tr>

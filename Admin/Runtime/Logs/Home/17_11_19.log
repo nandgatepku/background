@@ -1,0 +1,20 @@
+[ 2017-11-19T17:08:58+08:00 ] ::1 /dxwork/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014150s ]
+
+[ 2017-11-19T17:09:02+08:00 ] ::1 /dxwork/admin.php/Home/Index/denglu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-11-19T17:09:04+08:00 ] ::1 /dxwork/admin.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-11-19T17:09:19+08:00 ] ::1 /dxwork/admin.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+

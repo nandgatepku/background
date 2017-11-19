@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <?php
+$pagesize = 2; //设置记录显示条数
+$rows = count($list); //计算数组所得到记录总数
+$pagecount = ceil($rows / $pagesize);
+($page == "")? $page = 1 : $page = $_GET['page']; //初始化页码
+$offset = $page - 1; //初始化分页指针
+$start = $page * $pagesize; //初始化下限
+$end = $start + $pagesize; //初始化上限
+$prev = $page -1; //初始化上一页
+$next = $page -+1; //初始化下一页
+?>
+    <?php
+                $pagesize = 2; //设置记录显示条数
+                $rows = count($list); //计算数组所得到记录总数
+                $pagecount = ceil($rows / $pagesize);
+                ($page == "")? $page = 1 : $page = $_GET['page']; //初始化页码
+                $offset = $page - 1; //初始化分页指针
+                $start = $page * $pagesize; //初始化下限
+                $end = $start + $pagesize; //初始化上限
+                $prev = $page -1; //初始化上一页
+                $next = $page -+1; //初始化下一页
+               ?>
+    <?php for($i=$start;$i<$end;$i++): ?>{
+    <tr>
+        <td><?php echo $list[i]['id']; ?></td>
+        <td><?php echo $list[i]['name']; ?></td>
+        <td><?php echo $list[i]['wechat']; ?></td>
+    </tr>
+    }
+    <?php
+                   if($page >=1){
+    echo "<a href='?page=1'>第一页</a>";
+    echo "<a href='?page=".$prev."'>上一页</a>";
+    }
+    if($page <= $pagecount){
+    echo "<a href='?page=".$next."'>下一页</a>";
+    echo "<a href='?page=".$rows."'>最后页</a>";
+    }
+    echo "共[".$pagecount."]页" 当前第".$page."页 每页".$pagesize."条记录";
+    ?>
+
+</head>
+<body>
+
+</body>
+</html>
